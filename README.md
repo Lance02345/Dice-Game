@@ -1,0 +1,2 @@
+# MODALWINDOW
+Simple modal window
