@@ -1,2 +1,3 @@
 # Dice Game
-Simple modal window
+Roll dice game
+
