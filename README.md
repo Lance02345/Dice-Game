@@ -1,2 +1,2 @@
-# MODALWINDOW
+# Dice Game
 Simple modal window
